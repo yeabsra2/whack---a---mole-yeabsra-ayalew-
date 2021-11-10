@@ -1,3 +1,10 @@
+/**
+ * Creator: Yeabsra Ayalew
+ * 
+ * Date: 2021 - 11 - 09
+ * 
+ * The purpose of this code is to make a game similar to the one known as whack a mole but on a microbit using the software Makecode
+ */
 let startTime = 0
 let buttonPressed = false
 let molePosition = 0
